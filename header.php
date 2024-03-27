@@ -16,7 +16,9 @@
         </div>
 
         <div class="header-cover">
-
+            <div class="cover-content ">
+                <h1>Olivier DAL FERRO</h1>
+            </div>
         </div>
 
     </header>

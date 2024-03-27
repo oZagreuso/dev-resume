@@ -125,6 +125,9 @@
     grid-area: 2 / 2 / 5 / 4;
 }
 
+.cover-content h1 {    
+    color: #8395A7;
+}
 .cover-logo {
     grid-area: 6 / 4 / 7 / 5;
 }
